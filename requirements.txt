@@ -2,9 +2,6 @@ ipykernel
 pandas
 scikit-learn==1.8.0
 streamlit
-plotly
-matplotlib
-seaborn
 keras_tuner
 tensorflow==2.16.1
 keras==3.15.0
