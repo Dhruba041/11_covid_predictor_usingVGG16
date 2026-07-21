@@ -41,7 +41,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-
+st.write("Upload a chest X-ray image to predict whether it indicates COVID-19, Normal, or Viral Pneumonia. The model used is based on the VGG16 architecture.")
 
 
 MODEL_PATH = "VGG16_model.keras"
